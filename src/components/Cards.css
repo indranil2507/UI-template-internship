@@ -1,0 +1,39 @@
+.cards__items{
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 15px;
+    color: black;
+    margin: 5px 25px;
+
+}
+.card-item{
+    background-color: white;
+    width: 270px;
+    height: 350px;
+    font-size: 15px;
+    box-shadow: 2px 2px 2px 2px #ADD8E6;
+    margin-top: 25px;
+    padding: 10px;
+    padding-top: 25px !important;
+}
+.low-buttons{
+    display: grid;
+    width: 100%;
+    height: 30px;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-top:50px ;
+}
+.card-item img{
+    margin-top: 25px;
+    width: 100px;
+    height:70px;
+}
+.card-time{
+    margin-top: 25px;
+    color: orange;
+}
+.card-item span{
+    font-weight: bold;
+}
+
