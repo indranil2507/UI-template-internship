@@ -21,7 +21,7 @@ const Navbar = () => {
                       </input>
                   </div>
                   <div className="header-item">
-                     <img src="/Assets/avatar.jpg" alt="avatar" /> David
+                     <img src="public/Assets/avatar.jpg" alt="avatar" /> David
                   </div>
               </div>
             </div>
